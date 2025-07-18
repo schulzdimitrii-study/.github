@@ -1,5 +1,4 @@
 # Dimitri Study
-<img width="961" height="200" alt="github-header-image (2)" src="https://github.com/user-attachments/assets/f8181826-7397-4f16-9a3c-ae9abbb910e0" />
 
 
 <br/><br/>
