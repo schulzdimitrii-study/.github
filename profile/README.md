@@ -1,9 +1,3 @@
-# Dimitri Study
-
-
-<br/><br/>
-Seja bem-vindo(a) à minha onrganização no GitHub! Este espaço foi criado para centralizar meus estudos, projetos pessoais e trabalhos desenvolvidos ao longo da minha formação acadêmica.
-
 ## 🎓 Sobre esta organização
 
 Nesta organização você encontrará:
