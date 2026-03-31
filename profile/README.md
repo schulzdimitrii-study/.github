@@ -10,7 +10,7 @@ Nesta organização você encontrará:
 
 Aqui estão algumas das principais ferramentas e linguagens com as quais tenho estudado e desenvolvido:
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,java,spring,c,cpp,docker,react,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,kotlin,java,spring,c,cpp,docker,react,js,html,css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,cassandra,git,github,postman,cypress,linux)](https://skillicons.dev)
 
 
